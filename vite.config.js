@@ -4,6 +4,6 @@ import tsconfigPaths from "vite-tsconfig-paths"
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: "/educase-assignment",
+  base: "/EDUCASE-ASSIGNMENT",
   plugins: [react(), tsconfigPaths()],
 })
